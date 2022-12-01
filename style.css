@@ -41,7 +41,7 @@
   max-width: max-content;
 }
 
-#contResultArea {
+#errorArea {
   border: solid 1px blue;
 }
 
