@@ -1,0 +1,56 @@
+/* body {
+    background-color: black;
+    color: white;
+} */
+
+#contGeneral {
+  margin: auto;
+  margin-top: 5vh;
+  text-align: center;
+  max-width: 80%;
+}
+
+#title {
+  margin: auto;
+  text-transform: uppercase;
+  font-size: 3em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#author {
+  margin: auto;
+  font-size: 1em;
+  font-style: italic;
+  color: gray;
+  margin-bottom: 5vh;
+}
+
+#contUserArea {
+  margin: auto;
+  margin-bottom: 5vh;
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+}
+
+#user {
+  margin-bottom: 2%;
+}
+
+#btnCheck {
+  margin: auto;
+  max-width: max-content;
+}
+
+#contResultArea {
+  border: solid 1px blue;
+}
+
+#error {
+  margin: auto;
+  color: rgba(196, 0, 0, 0.904);
+}
+
+#correct {
+  margin: auto;
+  color: rgba(0, 196, 10, 0.904);
+}
