@@ -41,10 +41,6 @@
   max-width: max-content;
 }
 
-#errorArea {
-  border: solid 1px blue;
-}
-
 #error {
   margin: auto;
   color: rgba(196, 0, 0, 0.904);
